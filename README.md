@@ -24,4 +24,4 @@ Running is a great way to get fit, feel better and even form new relationships w
 ## Conclusion
 
 ## References
-[1] Parker-Pope, Tara.How to Start Running,**The New York Times**. Available in: https://www.nytimes.com/guides/well/how-to-start-running
+[1] Parker-Pope, Tara. How to Start Running, **The New York Times**. Available in: https://www.nytimes.com/guides/well/how-to-start-running
