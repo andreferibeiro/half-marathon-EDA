@@ -1,4 +1,4 @@
-# Project 1: Half-Marathon Trainning Analysis
+# Half-Marathon Trainning Analysis
 
 ## Introduction
 
