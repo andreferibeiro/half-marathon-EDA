@@ -17,7 +17,6 @@ Garmin Connect is the tool for tracking, analyzing and sharing health and fitnes
 
 ## Data Import
 **Os dados são importados diretamente da minha conta Garmin Connect em formato .csv e possuem as informações descritas a seguir:**
-![alt text]()
 
 ## Data Cleaning
 
