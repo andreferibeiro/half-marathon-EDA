@@ -1,6 +1,6 @@
 # Half-Marathon Training Analysis
 * Create a tool that estimates half-marathon effort to help amateurs runners reach the goal to finish the race below 2 hours.
-* Search and aplly API connected to Strava using python.
+* Search and aplly API connected to Garmin Connect using python.
 * Examine the data for distribution, outliers and anomalies to direct the hypothesis formulation.
 * Provide tools for hypothesis generation by visualizing and understanding the data through graphical representation.
 * Build Machine-learning models.
@@ -13,7 +13,11 @@ Running is a great way to get fit, feel better and even form new relationships w
 **Estimar se um corredor amador vai completar sua meia maratona abaixo de 2h com base nos seus treinos.**
 
 ## Dataset
-Strava is a social media and fitness-tracking app that's tailored for runners and cyclists. The app can help you connect with other people in your area who share your fitness interests and even discover local clubs and athletic challenges. **O conjunto de dados usados nesse projeto são retirados das minhas atividades monitoradas através do meu relógio Garmin e submetidas à minha conta Strava.com/athletes/21632037**
+Garmin Connect is the tool for tracking, analyzing and sharing health and fitness activities from your Garmin device.**O conjunto de dados usados nesse projeto são retirados do meu histórico de atividades monitoradas através do meu relógio Garmin e registradas na minha conta Garmin Connect.**
+
+## Data Import
+**Os dados são importados diretamente da minha conta Garmin Connect em formato .csv e possuem as informações descritas a seguir:**
+![alt text]()
 
 ## Data Cleaning
 
