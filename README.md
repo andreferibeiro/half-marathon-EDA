@@ -23,5 +23,3 @@ Garmin Connect is the tool for tracking, analyzing and sharing health and fitnes
 
 ## References
 [1] Parker-Pope, Tara. How to Start Running, **The New York Times**. Available in: https://www.nytimes.com/guides/well/how-to-start-running
-
-[2] Delfino, Devon. What is Strava, **Insider**. Available in: https://www.businessinsider.com/what-is-strava
