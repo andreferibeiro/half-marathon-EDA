@@ -17,7 +17,7 @@ Colab (short for Collaboratory) is Google’s free platform which enables users 
 ## Dataset
 Garmin Connect is the tool for tracking, analyzing and sharing health and fitness activities from your Garmin device.The dataset used in this project is taken from my activity history tracked through my Garmin watch and logged into my Garmin Connect account.
 
-![](images/garmin.jpeg)
+![](images/garmin_2.jpeg)
 
 ## Data Import
 Activities and wellness data files can be exported from Garmin Connect. Since devices have limited memory available for storage, this functionality allows customers access to historical activity data that can be used within other Garmin applications or supported third-party applications[3].
