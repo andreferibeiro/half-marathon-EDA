@@ -59,7 +59,7 @@ Exploratory data analysis (EDA) is an essential step in any research analysis. T
 ![](images/Imagem_3.png)
 
 ### Week distribution of Training  
-![](images/Imagem_4.png)
+![](images/week_training_2.png)
 
 ## Conclusion
 
