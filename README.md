@@ -61,7 +61,7 @@ Exploratory data analysis (EDA) is an essential step in any research analysis. T
 
 ## References
 1. Parker-Pope, Tara. How to Start Running, **The New York Times**. Available in: https://www.nytimes.com/guides/well/how-to-start-running
-2. @09amit.Ways to import CSV files in Google Colab,**GeeksforGeeks**. Available in: https://www.geeksforgeeks.org/ways-to-import-csv-files-in-google-colab/
-3. How Do I Export Data Out of Garmin Connect?.**Garmin Support Center.** Available in:https://support.garmin.com/en-US/?faq=W1TvTPW8JZ6LfJSfK512Q8  
+2. @09amit. Ways to import CSV files in Google Colab,**GeeksforGeeks**. Available in: https://www.geeksforgeeks.org/ways-to-import-csv-files-in-google-colab/
+3. How Do I Export Data Out of Garmin Connect?, **Garmin Support Center**. Available in:https://support.garmin.com/en-US/?faq=W1TvTPW8JZ6LfJSfK512Q8  
 4. Erhard Rahm, Hong Hai Do. Data Cleaning: Problems and Current Approaches, **Bulletin of the Technical Committee on Data Engineering**. University of Leipzig, Germany.
 5. Komorowski, M., Marshall, D.C., Salciccioli, J.D., Crutain, Y. (2016). Exploratory Data Analysis. **Secondary Analysis of Electronic Health Records**. Springer, Cham. https://doi.org/10.1007/978-3-319-43742-2_15
