@@ -10,7 +10,7 @@ Running is a great way to get fit, feel better and even form new relationships w
 Review the training plan for a half marathon.
 
 ## Method & Libraries
-Colab (short for Collaboratory) is Google’s free platform which enables users to code in Python. It is a Jupyter Notebook-based cloud service, provided by Google [2].
+Colab (short for Collaboratory) is Google’s free platform which enables users to code in Python. It is a Jupyter Notebook-based cloud service, provided by Google [2]. Out of the most popular Python packages used in data science and machine learning , we find Pandas, Numpy, Matplotlib and Seaborn.
 
 ![](images/libraries.png)
 
