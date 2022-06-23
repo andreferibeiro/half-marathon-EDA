@@ -10,7 +10,7 @@ Running is a great way to get fit, feel better and even form new relationships w
 Review the training plan for a half marathon.
 
 ## Methods
-Colab (short for Collaboratory) is Google’s free platform which enables users to code in Python. It is a Jupyter Notebook-based cloud service, provided by Google. This platform allows us to train the Machine Learning models directly in the cloud and all for free. Google Colab does whatever your Jupyter Notebook does and a bit more, i.e. you can use GPU and TPU for free [2].
+Colab (short for Collaboratory) is Google’s free platform which enables users to code in Python. It is a Jupyter Notebook-based cloud service, provided by Google [2].
 
 ## Dataset
 Garmin Connect is the tool for tracking, analyzing and sharing health and fitness activities from your Garmin device.The dataset used in this project is taken from my activity history tracked through my Garmin watch and logged into my Garmin Connect account.
