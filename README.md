@@ -30,7 +30,7 @@ Activity exports offer multiple format options including:
 ![](images/Impor_1.png)
 
 Some of Google Colab’s advantages include quick installation and real-time sharing of Notebooks between users. 
-However, loading a CSV file requires writing some extra lines of codes. In this article, we will be discussing three different ways to load a CSV file and store it in a pandas dataframe. To get started, sign in to your Google Account, and then go to “https://colab.research.google.com” and click on “New Notebook” [2]. 
+However, loading a CSV file requires writing some extra lines of codes [2]. 
 
 ![](images/Impor_2.png)
 
