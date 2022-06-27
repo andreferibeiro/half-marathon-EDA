@@ -82,8 +82,11 @@ From Training Zone histogram, it is possible notice that major number of trainin
    <a><img src="images/week_training_2.png"></a>
 </p>
 From the Training Week Distribution, it is possible notice that top 3 training days are Tuesday, Thursday and Wednesday following for the Sunday. However, it is important mention that the Training plan is defined for 3 days (Tue, Thu and Sun). Therefore, it is clear that the plan is not restricted following by me, otherwise the training would be concentrated in these 3 days mentioned before.
-  
-  ## Conclusion
+
+## Conclusion
+The analysis performed present a lot of insights about the Half Marathon. The mainly aspects is the discipline. The discipline to following the planned Heart Rate and consenquently the respective Training Zone because many experts consider this zone a "grey area". Also some evidences to suggest that this zone does not provide much benefit from an aerobic endurance point of view. Normally you're going too hard to get the benefits of Zone 2 and you're not going at what would be considered a "race pace" (Zone 4), so you're not getting the benefits of that either. In addition, the discipline in the point of view in complete the schedule of training in order to work hard but recovery in the right days too. The next steps for this projetct is increase the dataset, applying API to get this data directly and build some machine learning models. 
+**See you soon.**
+
 
 ## References
 1. Parker-Pope, Tara. How to Start Running, **The New York Times**. Available in: https://www.nytimes.com/guides/well/how-to-start-running
