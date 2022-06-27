@@ -68,20 +68,20 @@ From this plot, it is possible understand the strong linear relationship between
 <p align="center">
    <a><img src="images/Imagem_2.png"></a>
 </p>
-From this plot, it is possible notice that the average Distance is near of 5-6km during the training plan in the other hand the target distance higher than 20km (more close of a Half Marathon) is presented as outliers. As well the Time, reinforcing the strong relationship between these two variables. The Heat Rate shows 150bpm as average, even with the average Distance near of the 5km, therefore it is import improve the cardio-vascular endurance in order to keep the Heart Rate in those values however during long runs.
+From this plot, it is possible notice that the average Distance is near of 5-6km during the training plan in the other hand the target distance higher than 20km (more close of a Half Marathon distance) is presented as outliers. As well the Time, reinforcing the strong relationship between these two variables. The Heat Rate shows 150bpm as average, even with the average Distance near of the 5km, therefore it is import improve the cardio-vascular endurance in order to keep the Heart Rate in those values however during long runs.
 
 ### Training Zone effect in Distance and Time
-
 <p align="center">
    <a><img src="images/Imagem_3.png"></a>
 </p>
+From Training Zone histogram, it is possible notice that major number of training is perfomed in Training Zone 3. According literature, Training Zone 3 (aerobic endurance / marathon pace). It’s challenging enough that you feel you’re out of your comfort zone, but not challenging enough that you can’t sustain it. It’s comfortably uncomfortable. The truth is, it does not provide enough intensity to radically improve speed or power, but is not so easy that the body is able to fully recover. So, athletes feel tired all the time, but not necessarily getting faster [6].
+
 
 ### Week distribution of Training
-
 <p align="center">
    <a><img src="images/week_training_2.png"></a>
 </p>
-
+From the Training Week Distribution, it is possible notice that top 3 training days are Tuesday, Thursday and Wednesday following for the Sunday. However, it is important mention that the Training plan is defined for 3 days (Tue, Thu and Sun). Therefore, it is clear that the plan is not restricted following by me, otherwise the training would be concentrated in these 3 days mentioned before.
   
   ## Conclusion
 
@@ -91,3 +91,6 @@ From this plot, it is possible notice that the average Distance is near of 5-6km
 3. How Do I Export Data Out of Garmin Connect?, **Garmin Support Center**. Available in: https://support.garmin.com/en-US/?faq=W1TvTPW8JZ6LfJSfK512Q8  
 4. Erhard Rahm, Hong Hai Do. Data Cleaning: Problems and Current Approaches, **Bulletin of the Technical Committee on Data Engineering**. University of Leipzig, Germany.
 5. Komorowski, M., Marshall, D.C., Salciccioli, J.D., Crutain, Y. (2016). Exploratory Data Analysis. **Secondary Analysis of Electronic Health Records**. Springer, Cham. https://doi.org/10.1007/978-3-319-43742-2_15
+6. Andrejs. (2020). Heart Rate Training Zones – Complete Guide To Endurance Gains. **The Athlete Blog**. Available in: https://theathleteblog.com/heart-rate-training-zones/
+
+
