@@ -54,26 +54,36 @@ Data cleaning, also called data cleansing or scrubbing, deals with detecting and
 Exploratory data analysis (EDA) is an essential step in any research analysis. The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis. It also provides tools for hypothesis generation by visualizing and understanding the data usually through graphical representation [5].
 
 ### Correlation plot
-Standard correlation coefficient is a measure of linear correlation between two sets of data. The values range between -1.0 and 1.0.
-**0.96** show a strong positive relationship between Time and Distance, which is expected and the ratio of these two variables forms the Pace/Ritmo [km/min].
-**-0.91** show a strong negative relationship between Pace and Stride Length
-**0.89** the correlation between Trainning Zone and Heart Rate is disregarded because the first it is defined in funcion of the second.
-**0.76** finally, the another strong relationshiop occur between Average Cadence and Heart Rate.
-![](images/Imagem_1.png)
-
-From this plot, it is possible understand the relationship between Time x Distance and how the running shape and away impact on Pace and Heart Rate. So in order better those number, it is possible a change on the running style and improve of the cardio-vascular endurance.
-
+Standard correlation coefficient is a measure of linear correlation between two sets of data. The values range between -1.0 and 1.0.</p>
+**0.96** show a strong positive relationship between Time and Distance, which is expected and the ratio of these two variables forms the Pace/Ritmo (km/min).</p>
+**-0.91** show a strong negative relationship between Pace and Stride Length.</p>
+**0.89** the correlation between Trainning Zone and Heart Rate is disregarded because the first it is defined in funcion of the second.</p>
+**0.76** finally, the another strong relationshiop occur between Average Cadence and Heart Rate.</p>
+<p align="center">
+   <a><img src="images/Imagem_1.png"></a>
+</p>
+From this plot, it is possible understand the strong linear relationship between Time x Distance and how the running shape and away impact on Pace and Heart Rate. So in order better those number, it is possible a change on the running style and improve of the cardio-vascular endurance.
 
 ### Boxplot to check outliers
-![](images/Imagem_2.png)
+<p align="center">
+   <a><img src="images/Imagem_2.png"></a>
+</p>
+From this plot, it is possible notice that the average Distance is near of 5-6km during the training plan in the other hand the target distance higher than 20km (more close of a Half Marathon) is presented as outliers. As well the Time, reinforcing the strong relationship between these two variables. The Heat Rate shows 150bpm as average, even with the average Distance near of the 5km, therefore it is import improve the cardio-vascular endurance in order to keep the Heart Rate in those values however during long runs.
 
 ### Training Zone effect in Distance and Time
-![](images/Imagem_3.png)
 
-### Week distribution of Training  
-![](images/week_training_2.png)
+<p align="center">
+   <a><img src="images/Imagem_3.png"></a>
+</p>
 
-## Conclusion
+### Week distribution of Training
+
+<p align="center">
+   <a><img src="images/week_training_2.png"></a>
+</p>
+
+  
+  ## Conclusion
 
 ## References
 1. Parker-Pope, Tara. How to Start Running, **The New York Times**. Available in: https://www.nytimes.com/guides/well/how-to-start-running
