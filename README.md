@@ -39,9 +39,13 @@ However, loading a CSV file requires writing some extra lines of codes [2].
 ## Data Cleaning
 Data cleaning, also called data cleansing or scrubbing, deals with detecting and removing errors and inconsistencies from data in order to improve the quality of data. Data quality problems are present in single data collections, such as files and databases, e.g., due to misspellings during data entry, missing information or other invalid data [4].
 
-### Cleaning Date data
+### Date data cleaning and reworking 
 ![](images/Limpeza_1.png)
 ![](images/Limpeza_2.png)
+![](images/Limpeza_3.png)
+
+### Time data standardization 
+![](images/Limpeza_5.png)
 
 ### Cleanned data frame
 ![](images/Limpeza_4.png)
@@ -50,7 +54,15 @@ Data cleaning, also called data cleansing or scrubbing, deals with detecting and
 Exploratory data analysis (EDA) is an essential step in any research analysis. The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis. It also provides tools for hypothesis generation by visualizing and understanding the data usually through graphical representation [5].
 
 ### Correlation plot
+Standard correlation coefficient is a measure of linear correlation between two sets of data. The values range between -1.0 and 1.0.
+**0.96** show a strong positive relationship between Time and Distance, which is expected and the ratio of these two variables forms the Pace/Ritmo [km/min].
+**-0.91** show a strong negative relationship between Pace and Stride Length
+**0.89** the correlation between Trainning Zone and Heart Rate is disregarded because the first it is defined in funcion of the second.
+**0.76** finally, the another strong relationshiop occur between Average Cadence and Heart Rate.
 ![](images/Imagem_1.png)
+
+From this plot, it is possible understand the relationship between Time x Distance and how the running shape and away impact on Pace and Heart Rate. So in order better those number, it is possible a change on the running style and improve of the cardio-vascular endurance.
+
 
 ### Boxplot to check outliers
 ![](images/Imagem_2.png)
