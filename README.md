@@ -54,11 +54,16 @@ Data cleaning, also called data cleansing or scrubbing, deals with detecting and
 Exploratory data analysis (EDA) is an essential step in any research analysis. The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis. It also provides tools for hypothesis generation by visualizing and understanding the data usually through graphical representation [5].
 
 ### Correlation plot
-Standard correlation coefficient is a measure of linear correlation between two sets of data. The values range between -1.0 and 1.0.</p>
-**0.96** show a strong positive relationship between Time and Distance, which is expected and the ratio of these two variables forms the Pace/Ritmo (km/min).</p>
-**-0.91** show a strong negative relationship between Pace and Stride Length.</p>
-**0.89** the correlation between Trainning Zone and Heart Rate is disregarded because the first it is defined in funcion of the second.</p>
-**0.76** finally, the another strong relationshiop occur between Average Cadence and Heart Rate.</p>
+Standard correlation coefficient is a measure of linear correlation between two sets of data. The values range between -1.0 and 1.0.
+
+**0.96** show a strong positive relationship between Time and Distance, which is expected and the ratio of these two variables forms the Pace/Ritmo (km/min).
+
+**-0.91** show a strong negative relationship between Pace and Stride Length.
+
+**0.89** the correlation between Trainning Zone and Heart Rate is disregarded because the first it is defined in funcion of the second.
+
+**0.76** finally, the another strong relationshiop occur between Average Cadence and Heart Rate.
+
 <p align="center">
    <a><img src="images/Imagem_1.png"></a>
 </p>
